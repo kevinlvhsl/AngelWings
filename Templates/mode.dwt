@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="天使,篮球,NBA,球迷,扣篮,飞翔,詹姆斯,杜兰特,乔丹">
+<meta name="description" content="最NBA的球迷，最球迷的世界,最经典的评论，欢迎来到天使之翼篮球资讯论坛世界。当天使爱上打篮球，那将是乔丹詹姆斯该恐惧的事！这里是由最NBA的球迷及最专业的记者带来的最前线的NBA新闻及球星动态。欢迎您的留言及评论。">
+<meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" name="viewport">
+<base target="_self">
+<link rel="shortcut icon" href="../web/favicon.ico" type="image/x-icon" />
+<link href="../web/css/main.css" rel="stylesheet" />
+<link href="../css/bootstrap.css"  rel="stylesheet"/>
+<link href="../css/bootstrap-responsive.css" rel="stylesheet">
+<script src="../js/jquery-1.8.2.min.js"></script>
+<script src="../js/bootstrap.js"></script>
+<!-- TemplateBeginEditable name="titleArea" -->
+<!--这里用于头部的可编辑区域，可以引入文件和页面标题-->
+<title> </title>
+<!-- TemplateEndEditable -->
+
+
+</head>
+<body >
+
+<!--[if !IE]>|xGv00|391c10b45046351ab35a91ecc9e5bb6e<![endif]-->
+<!--[if !IE]>|xGv00|63885e533c6b7dd990669f000661a4a2<![endif]-->
+<!--[if lt IE9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"> </script>
+<![endif]-->
+<!-- 导航开始 -->
+<header class="page-header">
+  <div class="row headback">
+    <div class="span6"><img src="../web/images/nbaLogo.png"/><a href="#"><img src="../web/images/蓝色发光翅膀.png" alt="天使之翼——专注NBA新闻、动态、论坛"></a></div>
+	<div class="span6"> </div>
+  </div>
+    
+ <div class="nav">
+	 <div class="navbar">
+    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+    	<span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+    </a>
+   
+    <div class="nav-collapse">
+        <div class="navbar-inner back_col"><!-- navbar-inner 使内容成一个整体 -->
+            <ul class="nav">
+            	<li class="span2"></li>
+                <li class="active"><a href="../web/main.html">首&nbsp;页</a></li>
+                <li><a href="../web/foreshow.html">比赛预告</a></li>
+                <li><a href="../web/videoShow.html">精彩视频</a></li>
+                <li><a href="../web/topTeam.html">球队排名</a></li>
+                <li><a href="../web/database.html">数据库</a></li>
+                <li><a href="../web/startDynamic.html">球星动态</a></li>
+                <li><a href="../web/concatUs.html">联系我们</a></li>
+            </ul>
+             <ul class="nav pull-right">
+                <li class="li_hide"><a href="#">登录</a></li>
+                 <li class="li_show"><a href="#" >kevin</a></li>
+                <li class="divider-vertical"></li><!-- 竖线 -->
+                <li><a href="#">注册</a></li>
+            </ul>
+   	  </div>
+       </div>	
+</div>
+</header> 
+
+<div id="main">
+<!-- TemplateBeginEditable name="这里是主体内容" -->这里是主体内容<!-- TemplateEndEditable -->
+</div>
+
+<!-- 底部版权信息 -->
+<footer>
+    <div class="footer simsun">
+        <a href="#" class="blue" target="_self">天使之翼篮球意见反馈留言板</a> <a href="mailto:angle@angle520.com" target="_self">投稿信箱</a> 客服热线：123456789 欢迎批评指正<br>
+        <a href="#" class="blue">天使之翼简介</a> | <a href="http://corp.sina.com.cn/eng/" class="blue">About US</a> | <a href="#" class="blue">广告服务</a> | <a href="#" class="blue">联系我们</a> | <a href="#" class="blue">招聘信息</a> | <a href="#" class="blue">网站律师</a> | <a href="http://english.sina.com" class="blue">ANGLE520 English</a> | <a href="#" class="blue">通行证注册</a> | <a href="#" class="blue">产品答疑</a><br>
+        Copyright © 2015-2053 ANGLE Corporation, All Rights Reserved<br>
+        天使之翼 <a href="#">版权所有</a>
+    </div>
+</footer>
+</body>
+</html>

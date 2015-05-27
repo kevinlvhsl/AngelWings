@@ -1,0 +1,22 @@
+{
+  "name": "AngelWings",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kevinlvhsl/AngelWings",
+  "authors": [
+    "kevin"
+  ],
+  "description": "basketball blog",
+  "main": "main.html",
+  "keywords": [
+    "basketball",
+    "angel"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
