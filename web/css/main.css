@@ -1,0 +1,14 @@
+/* CSS Document */
+
+.team{
+	margin-top:30x;
+	padding-top:20px;
+	padding-left:27px;
+	background:rgb(243,243,243);
+	}
+html,body,header,div,h1,h2,h3,h4,h5,h6,h7,p,span{margin:0;padding:0;}
+body{min-width:250px;}
+.headback{background:url(images/nba_banner.png) no-repeat}
+.back_col{background:#0F0F0F;}
+.li_show{display:inline;}
+.li_hide{display:none;}
