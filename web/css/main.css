@@ -5,6 +5,7 @@
 	padding-top:20px;
 	padding-left:27px;
 	background:rgb(243,243,243);
+<<<<<<< HEAD
 	}
 html,body,header,div,h1,h2,h3,h4,h5,h6,h7,p,span{margin:0;padding:0;}
 body{min-width:250px;}
@@ -12,3 +13,6 @@ body{min-width:250px;}
 .back_col{background:#0F0F0F;}
 .li_show{display:inline;}
 .li_hide{display:none;}
+=======
+	}
+>>>>>>> 59fed44870babdec7022d7e9069c85f0f38ca861
