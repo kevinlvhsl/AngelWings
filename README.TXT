@@ -1,2 +1,0 @@
-GIT LEARNING
-test ras
