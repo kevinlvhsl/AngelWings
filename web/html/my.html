@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>我的页面</title>
+	<style>
+	*{
+		margin: 0;
+		padding:0;
+	}
+	body{overflow: auto}
+::-webkit-scrollbar {
+	width:10px;
+	margin-right:2px
+}::-webkit-scrollbar:horizontal {
+	height:10px;
+	margin-bottom:2px
+}
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+::-webkit-scrollbar-track-piece {
+    background-color: #333333;
+	border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+	width:10px;
+    border-radius: 5px;
+    background: #CBCBCB; 
+}
+::-webkit-scrollbar-thumb:hover {
+	background: #909090; 
+}
+.test{width: 400px; height: 200px;overflow:auto;}
+	.container {
+	/* 	position: relative;
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+		} 
+	.container .bar {
+		position: absolute;
+		width: 100%;
+		height: 100%;*/
+	}
+	.first {
+		width: 1000px;
+		height: 643px;
+		background: red;
+	}
+	.second {
+		width: 100%;
+		height: 768px;
+		background: yellow;
+	}
+	.third {
+		width: 100%;
+		height: 768px;
+		background: green;
+	}
+	.fourth {
+		width: 100%;
+		height: 768px;
+		background: pink;
+	}
+	</style>
+</head>
+<body>
+<div class="container">
+	<div class="first">第一屏</div>
+	<div class="bar second">第二屏</div>
+	<div class="bar third">第三屏</div>
+	<div class="bar fourth">第四屏</div>	
+</div>
+
+</body>
+</html>

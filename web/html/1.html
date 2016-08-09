@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+      <head>
+        <title>Get selected text with JavaScript</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="http://www.webhek.com/wordpress/wp-includes/js/jquery/jquery.js" type="text/javascript"></script>
+        <style>
+
+        </style>
+      </head>
+      <body>
+        <div class="contenttext">
+          和客户端的 JavaScript 不同的是，PHP 代码是运行在服务端的。如果您在您的服务器上建立了如上例类似的代码，则在运行该脚本后，客户端就能接收到其结果，但他们无法得知其背后的代码是如何运作的。您甚至可以将 WEB 服务器设置成让 PHP 来处理所有的 HTML 文件，这么一来，用户就无法得知服务端到底做了什么。 
+          使用 PHP 的一大好处是它对于初学者来说及其的简单，同时也给专业的程序员提供了各种高级的特性。当您看到 PHP 长长的特性列表时，请不要害怕。您可以很快的入门，只需几个小时您就可以自己写一些简单的脚本。 
+        </div>
+<script>
+$(document).ready(function () {
+      $(".contenttext").mouseup(function (e) {
+        var txt;
+        var parentOffset = $(this).offset();
+        var x = e.pageX - parentOffset.left;
+        var y = e.pageY - parentOffset.top;
+        txt = window.getSelection();
+        if (txt.toString().length > 1) {
+          alert(txt);
+        }
+      });
+    });
+</script>
+      </body>
+    </html>

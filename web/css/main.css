@@ -1,18 +1,79 @@
 /* CSS Document */
 
-.team{
-	margin-top:30x;
-	padding-top:20px;
-	padding-left:27px;
-	background:rgb(243,243,243);
-<<<<<<< HEAD
-	}
-html,body,header,div,h1,h2,h3,h4,h5,h6,h7,p,span{margin:0;padding:0;}
-body{min-width:250px;}
-.headback{background:url(images/nba_banner.png) no-repeat}
-.back_col{background:#0F0F0F;}
-.li_show{display:inline;}
-.li_hide{display:none;}
-=======
-	}
->>>>>>> 59fed44870babdec7022d7e9069c85f0f38ca861
+.team {
+    margin-top: 30x;
+    padding-top: 20px;
+    padding-left: 27px;
+    background: rgb(243, 243, 243);
+}
+
+html,
+body,
+header,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h7,
+p,
+span {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-width: 250px;
+}
+
+.headback {
+    background: url(images/nba_banner.png) no-repeat
+}
+
+.back_col {
+    background: #0F0F0F;
+}
+
+.li_show {
+    display: inline;
+}
+
+.li_hide {
+    display: none;
+}
+
+
+}
+
+/* CSS Document */
+.team {
+    margin-top: 30x;
+    padding-top: 20px;
+    padding-left: 27px;
+    background: rgb(243, 243, 243);
+}
+::-webkit-scrollbar {
+    width: 10px;
+    margin-right: 2px
+}
+::-webkit-scrollbar:horizontal {
+    height: 10px;
+    margin-bottom: 2px
+}
+::-webkit-scrollbar-track {
+    border-radius: 10px;
+}
+::-webkit-scrollbar-track-piece {
+    background-color: #333333;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+    width: 10px;
+    border-radius: 5px;
+    background: #CBCBCB;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #909090;
+}
